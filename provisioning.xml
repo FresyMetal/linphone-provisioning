@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.linphone.org/xsds/lpconfig.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-  <!-- ISR Comunicaciones SIP Configuration -->
-  <section name="proxy_0">
-    <entry name="reg_proxy">&lt;sip:olivo.isrcomunicaciones.es;transport=udp&gt;</entry>
-    <entry name="reg_identity">sip:?@olivo.isrcomunicaciones.es</entry>
-    <entry name="reg_sendregister">1</entry>
-    <entry name="publish">1</entry>
-    <entry name="realm">olivo.isrcomunicaciones.es</entry>
-  </section>
+
 
   <!-- Visual Identity: ISR Comunicaciones -->
   <section name="ui">
