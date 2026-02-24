@@ -22,7 +22,7 @@
   </section>
 
   <section name="proxy_default_values">
-    <entry name="reg_identity">sip:?@olivo.isrcomunicaciones.es</entry>
+    <entry name="reg_identity">sip:1006@olivo.isrcomunicaciones.es</entry>
     <entry name="reg_proxy">&lt;sip:olivo.isrcomunicaciones.es;transport=udp&gt;</entry>
     <entry name="reg_route">&lt;sip:olivo.isrcomunicaciones.es;transport=udp&gt;</entry>
     <entry name="reg_sendregister">1</entry>
@@ -31,7 +31,9 @@
   </section>
 
   <section name="auth_info_0">
-    <entry name="username">?</entry>
+    <entry name="username">1006</entry>
+    <entry name="userid">1006</entry>
+    <entry name="passwd">jesus@</entry>
     <entry name="domain">olivo.isrcomunicaciones.es</entry>
   </section>
 
