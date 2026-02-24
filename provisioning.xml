@@ -32,6 +32,7 @@
 
   <section name="auth_info_0">
     <entry name="username">?</entry>
+    <entry name="domain">olivo.isrcomunicaciones.es</entry>
   </section>
 
 </config>
