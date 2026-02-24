@@ -18,6 +18,9 @@
   <section name="audio">
     <entry name="codec_opus_preference">10</entry>
     <entry name="codec_pcmu_preference">0</entry>
+    <entry name="codec_pcma_preference">9</entry>
+  </section>
+
   <section name="proxy_default_values">
     <entry name="reg_identity">sip:?@olivo.isrcomunicaciones.es</entry>
     <entry name="reg_proxy">&lt;sip:olivo.isrcomunicaciones.es;transport=udp&gt;</entry>
