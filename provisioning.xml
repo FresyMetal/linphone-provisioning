@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.linphone.org/xsds/lpconfig.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-
-
-  <!-- Visual Identity: ISR Comunicaciones -->
+  <!-- Assistant Configuration -->
+  <section name="assistant">
+    <entry name="domain">olivo.isrcomunicaciones.es</entry>
+  </section>
   <section name="ui">
     <entry name="app_name">ISR Voip</entry>
     <entry name="primary_color">#003399</entry> <!-- Corporate Blue -->
